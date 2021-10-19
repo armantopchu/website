@@ -1,4 +1,4 @@
-baseURL = "https://616f51a21aa94d21cbc2c41c--festive-volhard-af1f92.netlify.app/"
+baseURL = "https://festive-volhard-af1f92.netlify.app/"
 title = "Your title"
 themesDir = "../.."
 theme = "m10c"
