@@ -2,10 +2,11 @@
 title: A completely made up story about a flying dog
 author: 'Arman Topchu'
 date: '2021-10-20'
-slug: []
+slug: flyingdog
 categories: []
 tags: []
 draft: no
+image: doggo.png
 ---
 
 # Booker Prize contestant
