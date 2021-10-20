@@ -11,27 +11,37 @@ paginate = 8
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
+    identifier = "Favorite quotes"
+    name = "Favorite quotes"
+    url = "/fav-quotes/"
     weight = 2
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "Favorite movies"
+    name = "Favorite movies"
+    url = "/fav-movies/"
     weight = 3
+  [[menu.main]]
+    identifier = "Favorite series"
+    name = "Favorite series"
+    url = "/fav-series/"
+    weight = 4
+  [[menu.main]]
+    identifier = "Favorite R Professor"
+    name = "Favorite R Professor"
+    url = "/not-u/"
+    weight = 5
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  author = "Arman Topchu"
+  description = "Websire for Data Analytics"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/gohugoio"
+    url = "https://github.com/armantopchu"
   [[params.social]]
     icon = "twitter"
-    name = "Twitter"
+    name = "Hugo's twitter"
     url = "https://twitter.com/gohugoio"
 
   # Default theme
