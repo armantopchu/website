@@ -8,14 +8,22 @@ menu:
       name: Home
       url: /
       weight: 1
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: Favorite quotes
+      name: Favorite quotes
+      url: /fav-quotes/
       weight: 2
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: Favorite movies
+      name: Favorite movies
+      url: /fav-movies/
       weight: 3
+    - identifier: Favorite series
+      name: Favorite series
+      url: /fav-series/
+      weight: 4
+      - identifier: Favorite R Professor
+      name: Favorite R Professor
+      url: /not-u/
+      weight: 5
 params:
   author: Arman Topchu
   description: Website for Data Analytics for Finance (MFA2022)
@@ -27,3 +35,8 @@ params:
     - icon: twitter
       name: Twitter
       url: https://twitter.com/gohugoio
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
