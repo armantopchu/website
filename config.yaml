@@ -20,7 +20,7 @@ menu:
       name: Favorite series
       url: /fav-series/
       weight: 4
-      - identifier: Favorite R Professor
+    - identifier: Favorite R Professor
       name: Favorite R Professor
       url: /not-u/
       weight: 5
