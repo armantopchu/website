@@ -20,8 +20,4 @@ Once upon a time, there was a little dog with a big dream. It would watch the bi
   ![Doggo's Journey](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\static\images\doggo.png)
 
 
-  ![Test](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\doggo.png)
-
-
-  ![Testx2](https://imgur.com/iRQBr7o)
 
