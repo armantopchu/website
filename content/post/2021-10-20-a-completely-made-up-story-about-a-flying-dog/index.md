@@ -15,17 +15,13 @@ Once upon a time, there was a little dog with a big dream. It would watch the bi
 
 
 
-![doggo](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\doggo.png)
+  ![doggo](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\doggo.png)
 
- ![Doggo's Journey](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\static\images\doggo.png)
-
-
+  ![Doggo's Journey](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\static\images\doggo.png)
 
 
-
-![Test](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\doggo.png)
-
+  ![Test](C:\Users\user\Documents\website\content\post\2021-10-20-a-completely-made-up-story-about-a-flying-dog\doggo.png)
 
 
-![Testx2](https://imgur.com/iRQBr7o)
+  ![Testx2](https://imgur.com/iRQBr7o)
 
