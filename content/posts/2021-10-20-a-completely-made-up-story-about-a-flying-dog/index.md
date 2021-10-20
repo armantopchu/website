@@ -21,11 +21,9 @@ Once upon a time, there was a little dog with a big dream. It would watch the bi
 
 ! [Test] (post/flyingdog/doggo.png)
 
+​	![doggo's journey](images/doggo.png)
 
 
 
-
-
-
-
+​	![doggo's journey](images\doggo.png)
 
