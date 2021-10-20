@@ -1,0 +1,15 @@
+---
+title: Reference to online materials I used
+author: Arman Topchu
+date: '2021-10-20'
+slug: []
+categories:
+  - Educational
+tags:
+  - boring_stuff
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a2y8n9PbVXA" frameborder="0"
+allow="accelerometer; autoplay; encrypted=media;gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
