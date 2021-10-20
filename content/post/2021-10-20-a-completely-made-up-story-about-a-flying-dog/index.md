@@ -17,5 +17,10 @@ knitr::include_graphics(/images/doggo.png,error =FALSE)
 knitr::include_graphics(/static/doggo.png,error =FALSE)
 knitr::include_graphics("/images/doggo.png",error =FALSE)
 knitr::include_graphics("/static/doggo.png",error =FALSE)
+knitr::include_graphics("/content/doggo.png",error =FALSE)
+knitr::include_graphics("/content/doggo.png",error =FALSE)
+knitr::include_graphics("/content/post/2021-10-20-a-completely-made-up-story-about-a-flying-dog/doggo.png",error =FALSE)
+knitr::include_graphics(/content/post/2021-10-20-a-completely-made-up-story-about-a-flying-dog/doggo.png,error =FALSE)
+knitr::include_graphics("/static/doggo.png",error =FALSE)
 
 
