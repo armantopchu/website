@@ -1,5 +1,5 @@
 ---
-title: "Arman's website for Data Analytics for Finance (MFA2022)"
+title: "Arman's website for Data Analytics for Finance"
 author: "Arman Topchu"
 date: 2020-12-01T21:13:14-05:00
 categories: ["R"]

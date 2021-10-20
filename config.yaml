@@ -26,7 +26,7 @@ menu:
       weight: 5
 params:
   author: Arman Topchu
-  description: Website for Data Analytics for Finance (MFA2022)
+  description: Website for Data Analytics for Finance
   menu_item_separator: ' - '
   social:
     - icon: github
