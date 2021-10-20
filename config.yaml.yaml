@@ -1,5 +1,5 @@
-baseURL: "https://atopchumfa2022.netlify.app/"
-title: Your title
+baseURL: https://atopchumfa2022.netlify.app/
+title: Arman Topchu's website for Data Analytics for Finance (MFA2022)
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -17,8 +17,8 @@ menu:
       url: /about/
       weight: 3
 params:
-  author: John Doe
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  author: Arman Topchu
+  description: Website for Data Analytics for Finance (MFA2022)
   menu_item_separator: ' - '
   social:
     - icon: github
